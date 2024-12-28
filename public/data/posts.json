@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "title": "C# ",
+        "description": "C# ile ilgili yazılarımı buradan bulabilirsiniz. ",
+        "image": "/images/c.png",
+        "postList": [
+            {
+                "id": 1,
+                "postTitle": "C#'te Redis Nasıl Kurulur ve Kullanılır?",
+                "address": "/posts/1.html"
+            },
+            {
+                "id": 2,
+                "postTitle": "Garbage Collector yazısı",
+                "address": "/posts/2.html"
+            },
+            {
+                "id": 3,
+                "postTitle": "Garbage Collector yazısı",
+                "address": "/posts/3.html"
+            },
+            {
+                "id": 4,
+                "postTitle": "Garbage Collector yazısı",
+                "address": "/posts/4.html"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Vue.Js",
+        "description": "Vue.Js ile ilgili yazılarımı buradan bulabilirsiniz.",
+        "image": "/images/vue.png",
+        "postList": [
+            {
+                "id": 1,
+                "postTitle": "Vue.Js'e Giriş",
+                "address": "1.html"
+            },
+            {
+                "id": 2,
+                "postTitle": "Vue.Js Direktifleri",
+                "address": "1.html"
+            },
+            {
+                "id": 3,
+                "postTitle": "Vue.Js'te Component Yapıları ve Componentlere Veri Gönderimi",
+                "address": "1.html"
+            },
+            {
+                "id": 4,
+                "postTitle": "Vue.Js Router",
+                "address": "1.html"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "TypeScript",
+        "description": "TypeScript ile ilgili yazılarımı buradan bulabilirsiniz.",
+        "image": "/images/ts.png",
+        "postList": [
+            {
+                "id": 1,
+                "postTitle": "TypeScript'e Giriş",
+                "address": "1.html"
+            },
+            {
+                "id": 2,
+                "postTitle": "TypeScrip'te Veri Türleri ve Fonksiyonlar",
+                "address": "1.html"
+            },
+            {
+                "id": 3,
+                "postTitle": "TypeScript Nedir?",
+                "address": "1.html"
+            },
+            {
+                "id": 4,
+                "postTitle": "TypeScript ile OOP",
+                "address": "1.html"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "title": ".Net ",
+        "description": ".Net ile ilgili yazılarımı buradan bulabilirsiniz.",
+        "image": "/images/net.png",
+        "postList": [
+            {
+                "id": 1,
+                "postTitle": ".Net Framework için Elastic Apm Konfigürasyonu ",
+                "address": "1.html"
+            },
+            {
+                "id": 2,
+                "postTitle": ".Net'te Garbage Collector Nasıl Çalışır?",
+                "address": "1.html"
+            },
+            {
+                "id": 3,
+                "postTitle": "Garbage Collector yazısı",
+                "address": "1.html"
+            },
+            {
+                "id": 4,
+                "postTitle": "Garbage Collector yazısı",
+                "address": "1.html"
+            }
+        ]
+    }
+]
